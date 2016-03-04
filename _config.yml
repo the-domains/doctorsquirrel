@@ -1,0 +1,28 @@
+name: doctor squirrel
+favicon: null
+layout_spectrum: 0.9777055310551077
+typography_spectrum: 0.38046743627637625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46654087910428643
+  lightness: 0.14537388063035905
+  saturation: 0.48493866925127804
+  rhythmicContrast: 0.0625641483347863
+purpose: []
