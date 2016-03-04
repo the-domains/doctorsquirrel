@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[doctor squirrel]]></title>
+        <description><![CDATA[doctor squirrel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 12:38:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[doctor squirrel]]></title>
+            <description><![CDATA[<article><h1>doctor squirrel</h1><p>squirrel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b14490d205ca3e8e5e8b2920b8ed72fb07fcd1b9.jpg"></article>]]></description>
+            <link>undefineddoctor-squirrel/index.html</link>
+            <guid isPermaLink="false">42e63b79-9574-4274-a66e-bbb5ac493f69</guid>
+            <pubDate>Fri, 04 Mar 2016 12:38:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
